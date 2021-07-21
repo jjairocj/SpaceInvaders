@@ -1,0 +1,16 @@
+F:\ConsoleGame\bin\Debug\net5.0\ConsoleGame.exe
+F:\ConsoleGame\bin\Debug\net5.0\ConsoleGame.deps.json
+F:\ConsoleGame\bin\Debug\net5.0\ConsoleGame.runtimeconfig.json
+F:\ConsoleGame\bin\Debug\net5.0\ConsoleGame.runtimeconfig.dev.json
+F:\ConsoleGame\bin\Debug\net5.0\ConsoleGame.dll
+F:\ConsoleGame\bin\Debug\net5.0\ref\ConsoleGame.dll
+F:\ConsoleGame\bin\Debug\net5.0\ConsoleGame.pdb
+F:\ConsoleGame\obj\Debug\net5.0\ConsoleGame.csprojAssemblyReference.cache
+F:\ConsoleGame\obj\Debug\net5.0\ConsoleGame.GeneratedMSBuildEditorConfig.editorconfig
+F:\ConsoleGame\obj\Debug\net5.0\ConsoleGame.AssemblyInfoInputs.cache
+F:\ConsoleGame\obj\Debug\net5.0\ConsoleGame.AssemblyInfo.cs
+F:\ConsoleGame\obj\Debug\net5.0\ConsoleGame.csproj.CoreCompileInputs.cache
+F:\ConsoleGame\obj\Debug\net5.0\ConsoleGame.dll
+F:\ConsoleGame\obj\Debug\net5.0\ref\ConsoleGame.dll
+F:\ConsoleGame\obj\Debug\net5.0\ConsoleGame.pdb
+F:\ConsoleGame\obj\Debug\net5.0\ConsoleGame.genruntimeconfig.cache
